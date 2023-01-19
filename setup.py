@@ -3,7 +3,7 @@ __version__ = "0.0.1"
 
 
 setup(
-    name="scpyplot",
+    name="sctweaks",
     version=__version__,
     author="Huan Yang",
     author_email="iamyanghuan@gmail.com",
